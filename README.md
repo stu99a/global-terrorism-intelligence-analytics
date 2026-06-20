@@ -1,5 +1,3 @@
-"The Global Terrorism Database (GTD) and Power BI dashboard file are excluded from this repository because of file size limitations and data licensing considerations. Screenshots of the dashboard and the full analytical workflow are provided"
-
 # Global Terrorism Intelligence Analytics
 
 ## Overview

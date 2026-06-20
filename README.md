@@ -1,1 +1,1 @@
-Due to the size and licensing restrictions of the Global Terrorism Database (GTD), only a sample dataset is included. The complete dataset can be obtained from START (National Consortium for the Study of Terrorism and Responses to Terrorism).
+The Global Terrorism Database (GTD) and Power BI dashboard file are excluded from this repository because of file size limitations and data licensing considerations. Screenshots of the dashboard and the full analytical workflow are provided.

@@ -1,0 +1,1 @@
+Due to the size and licensing restrictions of the Global Terrorism Database (GTD), only a sample dataset is included. The complete dataset can be obtained from START (National Consortium for the Study of Terrorism and Responses to Terrorism).

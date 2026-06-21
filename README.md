@@ -127,7 +127,7 @@ global-terrorism-intelligence-analytics
 
 ## Executive Overview
 
-![Executive Overview](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200208.png)
+![Executive Overview](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200208.png)
 
 Provides a high-level summary of terrorism incidents, fatalities, affected countries, and regional distribution.
 
@@ -135,7 +135,7 @@ Provides a high-level summary of terrorism incidents, fatalities, affected count
 
 ## Geographic Intelligence
 
-![Geographic Intelligence](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200246.png)
+![Geographic Intelligence](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200246.png)
 
 Highlights regional hotspots, city-level concentration of incidents, and geographic distribution patterns.
 
@@ -143,7 +143,7 @@ Highlights regional hotspots, city-level concentration of incidents, and geograp
 
 ## Attack Analysis
 
-![Attack Analysis](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200332.png)
+![Attack Analysis](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200332.png)
 
 Examines:
 
@@ -156,7 +156,7 @@ Examines:
 
 ## Organization Analysis
 
-![Organization Analysis](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200358.png)
+![Organization Analysis](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200358.png)
 
 Identifies:
 
@@ -168,7 +168,7 @@ Identifies:
 
 ## Casualty Analysis
 
-![Casualty Analysis](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200418.png)
+![Casualty Analysis](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200418.png)
 
 Analyzes:
 
@@ -181,7 +181,7 @@ Analyzes:
 
 ## Historical Trends
 
-![Historical Trends](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200454.png)
+![Historical Trends](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200454.png)
 
 Shows how terrorism activity evolved over time and identifies periods of increased activity.
 
@@ -189,7 +189,7 @@ Shows how terrorism activity evolved over time and identifies periods of increas
 
 ## Intelligence Summary
 
-![Intelligence Summary](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/Screenshot%202026-06-20%20200525.png)
+![Intelligence Summary](https://github.com/stu99a/global-terrorism-intelligence-analytics/blob/main/screenshots/Screenshot%202026-06-20%20200525.png)
 
 Provides an executive briefing highlighting key intelligence findings from the analysis.
 

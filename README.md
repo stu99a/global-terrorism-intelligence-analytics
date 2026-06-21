@@ -107,8 +107,7 @@ global-terrorism-intelligence-analytics
 │   ├── 02_feature_engineering_and_eda.ipynb
 │   ├── 03_advanced_intelligence_analytics.ipynb
 │   ├── 04_geospatial_intelligence.ipynb
-│   ├── 05_sql_database_creation.ipynb
-│   └── 06_sql_analysis.ipynb
+│   └── 05_sql_database_creation.ipynb
 │
 ├── sql
 │   └── intelligence_queries.sql

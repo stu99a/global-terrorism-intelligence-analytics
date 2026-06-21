@@ -109,10 +109,10 @@ global-terrorism-intelligence-analytics
 │   ├── 04_geospatial_intelligence.ipynb
 │   └── 05_sql_database_creation.ipynb
 │
+├── screenshots
+│
 ├── sql
 │   └── intelligence_queries.sql
-│
-├── screenshots
 │
 ├── README.md
 │

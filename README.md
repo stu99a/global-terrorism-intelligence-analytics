@@ -114,6 +114,8 @@ global-terrorism-intelligence-analytics
 ├── sql
 │   └── intelligence_queries.sql
 │
+├──.gitignore
+│
 ├── README.md
 │
 └── requirements.txt

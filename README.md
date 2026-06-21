@@ -262,7 +262,7 @@ Screenshots and the complete analytical workflow are provided to demonstrate the
 
 **Josiah Mathew**
 
-Data Analyst | Data Engineer | Power BI Developer | CBRNE Professional
+Data Analyst | Data Engineer | Power BI Developer | CBRNe Professional
 
 LinkedIn: https://www.linkedin.com/in/josiah-mathew-17547628b
 

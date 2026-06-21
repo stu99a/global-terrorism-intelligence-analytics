@@ -1,0 +1,14 @@
+# Raw datasets
+data/raw/
+
+# Processed datasets
+data/processed/
+
+# Database
+*.db
+
+# Power BI
+*.pbix
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

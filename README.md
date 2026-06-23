@@ -242,9 +242,11 @@ Provides an executive briefing highlighting key intelligence findings from the a
 
 # Data Availability
 
-The Global Terrorism Database (GTD), SQLite database, and Power BI dashboard file are excluded from this repository due to file size limitations and data licensing considerations.
+The Global Terrorism Database (GTD), SQLite database, and Power BI dashboard file are excluded from this repository due to file size limitations and data licensing considerations.  
 
-Screenshots and the complete analytical workflow are provided to demonstrate the project methodology and findings.
+The complete dataset can be obtained from START (National Consortium for the Study of Terrorism and Responses to Terrorism). https://www.start.umd.edu/data-tools/GTD 
+
+Screenshots and the complete analytical workflow are provided to demonstrate the project methodology and findings. 
 
 ---
 
